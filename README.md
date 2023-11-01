@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**maafinotti/maafinotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :telescope: Atualmente estou trabalhando como estagiária de Aálise de Dados na Roche
+- :page_with_curl: Estou estudando Ciência de Dados e Inteligência Artificial na PUC-SP
+- :seedling: Estou aprendendo Python, SQL, Machine Learning, Ciência de Dados, Análise de Dados...
+- :computer: Meus projetos estão (aqui)[https://github.com/maafinotti?tab=repositories]
 
-Here are some ideas to get you started:
+### Contato :speech_balloon:
+<p>
+  <img src='https://i.ibb.co/R9HC4fh/84-C6-D5-F0-BFE7-4-BA3-907-A-A20072498060.png' width="100px;" alt=""/>
+  <br/>
+  <sub><b>&nbsp &nbsp Manoela Finotti</b></sub>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Logo LinkedIn](https://i.ibb.co/km3vrJk/Group-1-2.png)](https://www.linkedin.com/in/manoelafinotti/)
+[![Logo E-mail](https://i.ibb.co/sqp4Znc/Group-1-3.png)](mailto:manoelaffinotti@gmail.com)

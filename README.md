@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - :telescope: Atualmente estou trabalhando como estagiária de Aálise de Dados na Roche
-- :page_with_curl: Estou estudando Ciência de Dados e Inteligência Artificial na PUC-SP
+- :page_with_curl: Estou cursando Ciência de Dados e Inteligência Artificial na PUC-SP
 - :seedling: Estou aprendendo Python, SQL, Machine Learning, Ciência de Dados, Análise de Dados...
 - :computer: Meus projetos estão [aqui](https://github.com/maafinotti?tab=repositories)
 

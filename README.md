@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="//s.imgur.com/min/embed.js" height="75%">
+  <img src="https://imgur.com/RwBSJB1" height="75%">
 </p>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/By4RipR" data-context="false" ><a href="//imgur.com/a/By4RipR"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 
 ### Olá 👋
 

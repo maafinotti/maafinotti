@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.lynchburg.edu/wp-content/uploads/statistics-and-data-science/banner-statistics-and-data-science-1.jpg" height="75%" width = "55%">
+  <img src="https://www.lynchburg.edu/wp-content/uploads/statistics-and-data-science/banner-statistics-and-data-science-1.jpg" height="150px" width = "75%">
 </p>
 
 

@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg" alt="Logo PUC" height="200px" />
+</p>
+
 ### Olá 👋
 
 - :telescope: Atualmente estou trabalhando como estagiária de Análise de Dados

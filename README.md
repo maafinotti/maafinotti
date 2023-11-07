@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.udep.edu.pe/ingenieria/wp-content/uploads/sites/7/2023/02/hand-working-with-business-data-analytics-process-management-with-kpi-financial-charts-graph-1.jpg" alt="Logo PUC" height="200px" width = "600px" />
+<img src="https://www.udep.edu.pe/ingenieria/wp-content/uploads/sites/7/2023/02/hand-working-with-business-data-analytics-process-management-with-kpi-financial-charts-graph-1.jpg" alt="Logo PUC" height="200px" width = "900px" />
 </p>
 
 ### Olá 👋

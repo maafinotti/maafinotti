@@ -18,3 +18,4 @@
 
 [![Logo LinkedIn](https://i.ibb.co/km3vrJk/Group-1-2.png)](https://www.linkedin.com/in/manoelafinotti/)
 [![Logo E-mail](https://i.ibb.co/sqp4Znc/Group-1-3.png)](mailto:manoelaffinotti@gmail.com)
+[![Currículo](https://i.ibb.co/t8TtSKf/Group-2.png)](https://i.ibb.co/HNtjt8f/Manoela-Ferreira-Finotti.png)

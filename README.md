@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://ibb.co/7GLCGWD" height="75%">
+  <img src=https://i.ibb.co/FBC3Bw1/img-02.png" height="75%">
 </p>
-
-[Imgur](https://imgur.com/RwBSJB1)
 
 ### Olá 👋
 

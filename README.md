@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://www.american.edu/spa/data-science/images/Data-Science-Institute_banner.jpg" alt="Logo PUC" height="35%" />
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/11/web-g1c2368440_1280.jpg" alt="Logo PUC" height="10%" />
 </p>
 
 ### Olá 👋

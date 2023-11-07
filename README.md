@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display__940_x_310/public/field/focus_image/di_yi_pian_gao_zi_tou_tu_banner-940.jpg?itok=N1XKroBs" alt="Logo PUC" height="200px">
+  <img src="https://www.timetoact.de/thumbnail_direct/8233?w=1920&h=1920&solid&max" alt="Logo PUC" height="75%">
 </p>
 
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.pasteur.fr/sites/default/files/styles/tetiere_1300x527/public/rubrique_journal_de_la_recherche/dossiers/data-face-800h.jpg?itok=3nqTnVG4&c=39ce5eafc8e2281d214c2b29ea16c3df" alt="Logo PUC" height="10%">
+  <img src="https://cdn.shanghai.nyu.edu/sites/default/files/styles/content_page_slideshow_display__940_x_310/public/field/focus_image/di_yi_pian_gao_zi_tou_tu_banner-940.jpg?itok=N1XKroBs" alt="Logo PUC" height="10%">
 </p>
 
 

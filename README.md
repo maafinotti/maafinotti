@@ -15,7 +15,7 @@
   <br/>
   <sub><b>&nbsp &nbsp Manoela Finotti</b></sub>
 </p>
-
+<a href="https://www.linkedin.com/in/manoelafinotti/"><img src="https://i.ibb.co/km3vrJk/Group-1-2.png"></a>
 <a href = "https://www.linkedin.com/in/manoelafinotti/"> <img "src="https://i.ibb.co/km3vrJk/Group-1-2.png"></a>
 [![Logo LinkedIn](https://i.ibb.co/km3vrJk/Group-1-2.png)](https://www.linkedin.com/in/manoelafinotti/)
 [![Logo E-mail](https://i.ibb.co/sqp4Znc/Group-1-3.png)](mailto:manoelaffinotti@gmail.com)

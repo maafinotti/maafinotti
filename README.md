@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.alura.com.br/artigos/assets/data-science-em-t/img-02.jpg" height="75%">
+  <img src="https://imgur.com/a/By4RipR" height="75%">
 </p>
 
 

@@ -2,6 +2,8 @@
   <img src="https://imgur.com/RwBSJB1" height="75%">
 </p>
 
+[Imgur](https://imgur.com/RwBSJB1)
+
 ### Olá 👋
 
 - :telescope: Atualmente trabalho como estagiária de Análise de Dados

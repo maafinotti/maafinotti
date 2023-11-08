@@ -18,5 +18,3 @@
 
 <a href="https://www.linkedin.com/in/manoelafinotti/"><img src="https://i.ibb.co/km3vrJk/Group-1-2.png" alt = "Logo LinkedIn"></a>
 <a href="mailto:manoelaffinotti@gmail.com"><img src="https://i.ibb.co/sqp4Znc/Group-1-3.png" alt = "Logo E-mail"></a>
-<a href="https://i.ibb.co/HNtjt8f/Manoela-Ferreira-Finotti.png"><img src="https://i.ibb.co/HG02yZj/Group-2-1.png" alt = "Imagem - currículo"></a>
-

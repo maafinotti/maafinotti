@@ -6,7 +6,7 @@
 
 - :telescope: Atualmente trabalho como estagiária de Análise de Dados
 - :mortar_board: Curso Ciência de Dados e Inteligência Artificial na PUC-SP
-- :seedling: Estou aprendendo Python, SQL, Machine Learning, Ciência de Dados, Análise de Dados...
+- :seedling: Estou aprendendo Python, SQL, Alteryx, Tableau, Machine Learning, Ciência de Dados, Análise de Dados...
 - :computer: Meus projetos estão [aqui](https://github.com/maafinotti?tab=repositories)
 
 ### Contato :speech_balloon:

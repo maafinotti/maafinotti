@@ -8,6 +8,7 @@
 - :mortar_board: Curso Ciência de Dados e Inteligência Artificial na PUC-SP
 - :seedling: Estou aprendendo Python, SQL, Alteryx, Tableau, Machine Learning, Ciência de Dados, Análise de Dados...
 - :computer: Meus projetos estão [aqui](https://github.com/maafinotti?tab=repositories)
+  - Relacionados à faculdade, os links estão concentrados [aqui](https://github.com/maafinotti/PUC)
 
 ### Contato :speech_balloon:
 <p>
